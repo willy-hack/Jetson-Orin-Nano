@@ -27,6 +27,7 @@ pyenv install --list
 更新Python - 使用Pyenv安裝Python
 ```bash
 pyenv install 3.11.7
+pyenv global 3.11.7
 
 ```
 
