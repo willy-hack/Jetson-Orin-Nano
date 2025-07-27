@@ -3,6 +3,7 @@
 
  - 教學陣列
     - [更新Python版本](./src/upda-python/README.md)
+    - [安裝未來工程程序的依賴](./src/download-code-rely/README.md)
 
  - 而外教學
     - [安裝中文輸入法(新酷音)](./src/install-fcitx/README.md)
