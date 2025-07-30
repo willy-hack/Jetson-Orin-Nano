@@ -16,6 +16,12 @@
 
 ---
 
+## 一指令配置
+```bash
+sudo apt update && sudo apt instal wget
+wget "https://raw.githubusercontent.com/willy-hack/Jetson-Orin-Nano/refs/tags/1.0.0/up_py.sh" && sudo chmod +x up_py.sh && ./up_py.sh
+```
+
 ## 🛠️ 安裝 Pyenv
 
 ```bash
