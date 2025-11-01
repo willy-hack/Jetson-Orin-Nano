@@ -16,8 +16,15 @@
 
 ---
 
-<p align="center">
-  <a href="./src/upda-python/README.md"><img src="https://img.shields.io/badge/更新%20Python%20版本-0ff?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="./src/download-code-rely/README.md"><img src="https://img.shields.io/badge/安裝未來工程程序的依賴-00ffe7?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="./src/install-fcitx/README.md"><img src="https://img.shields.io/badge/安裝中文輸入法(新酷音)-2c5364?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-</p>
+<div align=center>
+  <table>
+    <tr align=center>
+      <td width=250><a href="./src/upda-python/README.md"><img src="https://img.shields.io/badge/更新%20Python%20版本-0ff?style=for-the-badge&logo=python&logoColor=white" /></a></td>
+      <td width=250><a href="./src/download-code-rely/README.md"><img src="https://img.shields.io/badge/安裝未來工程程序的依賴-00ffe7?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+      <td width=250><a href="./src/install-fcitx/README.md"><img src="https://img.shields.io/badge/安裝中文輸入法(新酷音)-2c5364?style=for-the-badge&logo=ubuntu&logoColor=white" /></a></td>
+    </tr>
+    <tr align=center>
+      <td width=250><a href="./src/build_and_install_opencv/README.md"><img src="https://img.shields.io/badge/編譯並安裝含有Cuda的Opencv-0ff?style=for-the-badge&logo=opencv&logoColor=white" /></a></td>
+    </tr>
+  </table>
+</div>
